@@ -4,4 +4,5 @@
 public class MoveHistory {
 
    String test = "test";
+   String test2 = "test2";
 }
